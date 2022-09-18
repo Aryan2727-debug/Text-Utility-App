@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+body{
+    overflow-x: hidden;
+}
+
+.text_input{
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.color_input{
+    position: absolute;
+    top: 43.5%;
+    left: 30%;
+}
+
+.color_button{
+    position: absolute;
+    top: 43%;
+    left: 35%;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+}
+
+.font_button{
+    position: absolute;
+    top: 43%;
+    left: 46%;
+    background-color: chartreuse;
+    border: 1px solid chartreuse;
+    color: black;
+}
+
+.access_button{
+    position: absolute;
+    top: 43%;
+    left: 55%;
+    background-color: darksalmon;
+    border: 1px solid darksalmon;
+    color: black;
+}
+
+.space_button{
+    position: absolute;
+    top: 43%;
+    left: 66%;
+    background-color: grey;
+    border: 1px solid grey;
+    color: white;
+}
+
+.upper_button{
+    position: absolute;
+    top: 35%;
+    left: 30%;
+}
+
+
+.lower_button{
+    position: absolute;
+    top: 35%;
+    left: 43%;
+}
+
+.count_button{
+    position: absolute;
+    top: 35%;
+    left: 56%;
+}
+
+.clear_button{
+    position: absolute;
+    top: 35%;
+    left: 65%;
+}
+
+.mode_button{
+    position: absolute;
+    top: 20%;
+    left: 85%;
+}
+
+.exp_button{
+    cursor: pointer;
+}
+
+.main_heading{
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+
+.main_div{
+    height: 100vh;
+    width: 100%
+}
+
+.jumbotron{
+    position: absolute;
+    top: 70%;
+}
+
+.find_heading{
+    position: absolute;
+    top: 93%;
+    left: 45%;
+}
+
+.icons_div{
+    position: absolute;
+    top: 100%;
+    left: 45%;
+}
